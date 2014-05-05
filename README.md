@@ -1,30 +1,30 @@
 LD Categorization:
 Under water
-  - Deep sea Diver
-    * Scuba Bear
-    * Into the Abyss
-    * Pearl Diver
-  - Submarine
-    * Below the water surface
-    * Deep Sea Mission
-    * Hammerhead in the sea of monsters
-  - Abstract underwater
-    * Bridge to the abyss
-  - Merfolk
-    * Zems Card game
-  - Boat
-    * Water Hazard
-  - Drowning
-    * Bob's incident  
-  - On the surface of the water
-    * Beneath the fun
-    * Stoppy the Swan    
-  * Nevermind
-  * Mr Guppy
-  * Sharks have feelings.
-  * Hungry Dolphin
-  * Kraken Pool Party
-  * Cutopia
+  Deep sea Diver
+    Scuba Bear
+    Into the Abyss
+    Pearl Diver
+  Submarine
+    Below the water surface
+    Deep Sea Mission
+    Hammerhead in the sea of monsters
+  Abstract underwater
+    Bridge to the abyss
+  Merfolk
+    Zems Card game
+  Boat
+    Water Hazard
+  Drowning
+    Bob's incident  
+  On the surface of the water
+    Beneath the fun
+    Stoppy the Swan    
+  Nevermind
+  Mr Guppy
+  Sharks have feelings.
+  Hungry Dolphin
+  Kraken Pool Party
+  Cutopia
 
 Under Ground
   - Bunker
