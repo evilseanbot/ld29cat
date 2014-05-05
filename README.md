@@ -1,7 +1,7 @@
 LD Categorization:
 - Under water
   - Deep sea Diver
-    * Scuba Bear
+    * Scuba Bear http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=18340
     * Into the Abyss
     * Pearl Diver
   - Submarine
