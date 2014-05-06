@@ -103,8 +103,8 @@ LD Categorization:
   * Buried beneath the credits?
 
 - I Assume not in theme:
-* Beneath the surface {Didn't see how it fit the theme.}
-* Bouboule is Rolling
-* Baking simulator 2014
-* Box simulator 2014
-* Electric Seive
+  * Beneath the surface {Didn't see how it fit the theme.}
+  * Bouboule is Rolling
+  * Baking simulator 2014
+  * Box simulator 2014
+  * Electric Seive
