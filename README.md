@@ -43,7 +43,7 @@ LD Categorization:
 	    * Ablate
 	    * Bob's incident
 	    * Digger Grave
-	    * Dozer's Gem Jam
+	    * Dozer's Gem Jam http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=22866
 	    * Dig Hard http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=4433
 	  - Blowing up earth
 	    * Ablate
