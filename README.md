@@ -26,7 +26,7 @@ LD Categorization:
   * Kraken Pool Party
   * Cutopia
 
-Under Ground
+- Under Ground
   - Bunker
     * Ablate http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=1634
     * Briefcase
@@ -78,13 +78,13 @@ Under Ground
   * Escape to below
   * Its all Ogre now
 
-Underneath skin
+- Underneath skin
   * NanoMineBo
   * Cycolops
   * Bloody Barry http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=34196
   * Beneath the surface - Ashknight
 
-Underneath a floor
+- Underneath a floor
   - Inside a floor
     * The Daring Adventures of the BLOB that can hide BENEATH THE SURFACE
   - Mirrored surface
@@ -95,14 +95,14 @@ Underneath a floor
   - Two Floors
     * DRAAAANNNGGGG
 
-Underneath appearances
+- Underneath appearances
   - Inside code
     * Console.enable
     * Bixtl's cool place
   * Infinite hell loop
   * Buried beneath the credits?
 
-I Assume not in theme:
+- I Assume not in theme:
 * Beneath the surface {Didn't see how it fit the theme.}
 * Bouboule is Rolling
 * Baking simulator 2014
